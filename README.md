@@ -5,7 +5,7 @@ This module challenge is divided into 2 parts. In the first part, we scrape the 
 
 ## Part 1: Scrape Titles and Preview Text from Mars News
 
-We use "part_1_mars_news.ipynb" Jupyter notebook to complete this challenge. To complete this challenge, we need to install 'browser driver' according to your system. Here, I have used **chromedriver** to complete my challenge. To import the 'Browser' class from the Splinter library, we have to use the code **pip install splinter** in the terminal to install the splinter library. Then write **from splinter import Browser** in the jupyter notebook.     
+We use "part_1_mars_news.ipynb" Jupyter notebook to complete this challenge. First, we need to install 'browser driver' according to your system. Here, I have used **chromedriver** to complete my challenge. To import the 'Browser' class from the Splinter library, we have to use the code **pip install splinter** in the terminal to install the splinter library. Then write **from splinter import Browser** in the jupyter notebook.     
                   
 Website we used for scraping data is stored under the name 'url'. url = 'https://static.bc-edx.com/data/web/mars_news/index.html'        
                   
