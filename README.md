@@ -1,6 +1,6 @@
 # Module 11 Challenge      
 
-For this module challenge is divided into 2 parts. In the first part, we scrape the title and preview text from Mars news articles. In the second part, we use the data provided by the Curiosity Mars rover, to scrape and analyze Mars weather.
+This module challenge is divided into 2 parts. In the first part, we scrape the title and preview text from Mars news articles. In the second part, we use the data provided by the Curiosity Mars rover, to scrape and analyze Mars weather.
 
 
 ## Part 1: Scrape Titles and Preview Text from Mars News
