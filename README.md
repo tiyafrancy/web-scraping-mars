@@ -18,14 +18,14 @@ After completing the web scraping we can close the browser by using the code : b
 We use "part_2_mars_weather.ipynb" Jupyter notebook to complete this challenge. We are given a table of Mars weather data collected by the Curiosity Mars rover. url = "https://static.bc-edx.com/data/web/mars_facts/temperature.html" is used for the reference. The following analysis has been done:          
                           
 #### Minimum Temperature           
-          From the data provided by the Curiosity Mars rover, we get to analyze the temperature on Mars.              
+From the data provided by the Curiosity Mars rover, we get to analyze the temperature on Mars.              
 Temperature ranges from -68.38 to -83.31. 'Month 8' recorded the maximum temperature, and 'Month 3' recorded the minimum temperature.          
                           
 #### Atmospheric Pressure             
-          Based on the atmospheric pressure recorded at the Curiosity's location, we can clearly state that the 'Month 9' with an average pressure of 913.31, has the maximum pressure recorded, and the 'Month 6' with a pressure of 745.05 has the minimum pressure recorded.            
+Based on the atmospheric pressure recorded at the Curiosity's location, we can clearly state that the 'Month 9' with an average pressure of 913.31, has the maximum pressure recorded, and the 'Month 6' with a pressure of 745.05 has the minimum pressure recorded.            
                                
 #### Year Length             
-          A martian year is approximately 687 earth days. This is nearly twice as long as an Earth year, which is about 365 days.             
+A martian year is approximately 687 earth days. This is nearly twice as long as an Earth year, which is about 365 days.             
              
 
 After the analysis, we have exported the DataFrame to a CSV file. mars_data.csv contains the exported data. Close the browser by using the code : browser.quit()                           
